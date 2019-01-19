@@ -1,4 +1,4 @@
-token= NTM1MzU0MjY3MjUxMzc2MTQ4.DyQ0Ug.tZkrnWQbEzD1iN-ahnoOf0AiP9c
-owner= 508834984740519936
-prefix= mmc!
-game= ابتسم فلا احد يهمه حزنك
+token=NTM1MzU0MjY3MjUxMzc2MTQ4.DyQ0Ug.tZkrnWQbEzD1iN-ahnoOf0AiP9c
+owner=508834984740519936
+prefix=mmc!
+game=ابتسم فلا احد يهمه حزنك
