@@ -1,6 +1,4 @@
-token= هنا حق التوكين حق بوتك
-owner= هنا حط الايدي حقك 
-prefix= هنا البرفكس حق بوتك
-game= هنا حط الكلام الي يجي في البلاينج
-stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
-songinstatus=false هنا اذا تبيه يكتب اسم الاغنية الي مشغلها البوت في البلايمج حقه اذا تبيها خليها true
+token= NTM1MzU0MjY3MjUxMzc2MTQ4.DyQ0Ug.tZkrnWQbEzD1iN-ahnoOf0AiP9c
+owner= 508834984740519936
+prefix= mmc!
+game= ابتسم فلا احد يهمه حزنك
